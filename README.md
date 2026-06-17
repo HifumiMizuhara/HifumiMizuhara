@@ -9,5 +9,5 @@ Hey, I am Hifumi Mizuhara. I am currently 18 and love to build cool and fun thin
 - ⚡ Fun fact:
   - I am a Chinese-Japanese bilingual.
   - "Hifumi" in my name is a count-up from 1 to 3 in Japanese, which means "start from the beginning (one)."
-  - I write blogs at [Note (Japanese)](https://note.com/hifumimizuhara) and am an active user at [LINUX.DO](https://linux.do/u/hifumi_mizuhara/). Feel free to start a conversation with me in Japanese/Chinese!
+  - I write blogs at [note](https://note.com/hifumimizuhara) and am an active user at [LINUX.DO](https://linux.do/u/hifumi_mizuhara/). Feel free to start a conversation with me in Japanese/Chinese!
   - I am prepping for English tests like TOEFL, and I hope I can read/write English without difficulty someday!
