@@ -5,7 +5,7 @@ Hey, I am Hifumi Mizuhara. I am currently 18 and love to build cool and fun thin
 - 🌱 I’m currently learning
   - the Kotlin language
   - Competitive programming at [Atcoder](https://atcoder.jp/users/mizuhara_hifumi)
-- 😄 Pronouns: She/Her or gender-neutral terms like They/Them
+- 😄 Pronouns: She/Her(Maybe?) or gender-neutral terms like They/Them
 - ⚡ Fun fact:
   - I am a Chinese-Japanese bilingual.
   - "Hifumi" in my name is a count-up from 1 to 3 in Japanese, which means "start from the beginning (one)."
