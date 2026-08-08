@@ -1,9 +1,11 @@
 Hey, I am Hifumi Mizuhara. I am currently 18 and love to build cool and fun things.
 
 - 🔭 I’m currently working on
-  - [ CreSora Utilities ](https://github.com/HifumiMizuhara/cresora-utilities) I am pondering on the redesigning work of this mod - a ARPG mod to bring Genshin-like experience into 1.21.7 Minecraft, with its own settings and stories.
+  - Learning Network Basics and C/C++ Network Programming
 - 🌱 I’m currently learning
-  - the Kotlin language
+  - C/C++
+  - Calculus
+  - TCP/IP Basics
   - Competitive programming at [Atcoder](https://atcoder.jp/users/mizuhara_hifumi)
 - 😄 Pronouns: She/Her(Maybe?) or gender-neutral terms like They/Them
 - ⚡ Fun fact:
