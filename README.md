@@ -15,4 +15,4 @@ Hey, I am Hifumi Mizuhara.
   - I am prepping for English tests like TOEFL, and I hope I can read/write English without difficulty someday!
   - I previously did the [16Personalities](https://www.16personalities.com/ja/%E6%80%A7%E6%A0%BC%E8%A8%BA%E6%96%AD%E3%83%86%E3%82%B9%E3%83%88) test for tens of times, each of them a result of `INFP-T`, despite my different answer.
 - ✉️ To reach me:
-  - [Email](mailto: hifumi@goodgirl.mizuharahifumi.top)  
+  - [Email](mailto:hifumi@goodgirl.mizuharahifumi.top)  
