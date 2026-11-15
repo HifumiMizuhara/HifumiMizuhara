@@ -3,7 +3,7 @@ Hey, I am Hifumi Mizuhara.
 - 🔭 I’m currently working on
   - Learning Network Basics and C/C++ Network Programming
 - 🌱 I’m currently learning
-  - C/C++
+  - C/C++, Python
   - Calculus
   - TCP/IP Basics
   - Competitive programming at [Atcoder](https://atcoder.jp/users/mizuhara_hifumi)
