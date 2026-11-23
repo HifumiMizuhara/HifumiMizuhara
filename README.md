@@ -1,5 +1,7 @@
 Hey, I am Hifumi Mizuhara. 
 
+> Pursuing "myself" is hard. But I bravely blossom and confront.
+
 - 🔭 I’m currently working on
   - Learning Algorithms and Competitive Programming at AtCoder
 - 🌱 I’m currently learning
